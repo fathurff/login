@@ -1,4 +1,4 @@
-apt install figlet  
+apt install figlet b
 apt install ruby 
 gem install lolcat
 apt install python
